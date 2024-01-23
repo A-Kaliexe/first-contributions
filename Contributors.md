@@ -146,6 +146,7 @@ Daniela Anghel
 - [test21]
 -[Anjali Sachan]
 -[HP](https://github.com/Hermeshasnowings)
+
 - [Hemant](https://github.com/hemant187)
 - [Sandeep Dewangan](https://github.com/sandy15d)
 - [Osman](https://github.com/Osmansiddiquer)
@@ -1586,3 +1587,4 @@ Alexander
 - [ydoow]
 -[Selam] (https://github.com/Selamkd)
 -[Jay;a] (https://github.com/ToedQueen208)
+-[A-Kaliexe] (https://github.com/A-Kaliexe)
